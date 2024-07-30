@@ -12,7 +12,8 @@
 * Requirement files are expected to be added.
 * Colab/Kaggle notebooks can be used, but the ```ipynb``` file must be added.
 * The dataset is available [here](https://drive.google.com/drive/folders/1TuM4CgGI3WBqOHNFjuzjaEzLOH5Yw43_?usp=sharing).
-* There has to be 2 folders viz. "AI" and "Non_AI" containing solutions to the respectiv tasks.
+* Create a root folder with your name.
+* There has to be 2 folders viz. "AI" and "Non_AI" containing solutions to the respectiv tasks within the above root folder.
 
 ## Steps to submit the solutions
 * Fork this repository.
